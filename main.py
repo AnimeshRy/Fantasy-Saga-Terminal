@@ -1,6 +1,6 @@
-from game import Person, bcolors
-from magic import Spell
-from inventory import Item
+from resources.game import Person, bcolors
+from resources.magic import Spell
+from resources.inventory import Item
 import random
 
 
