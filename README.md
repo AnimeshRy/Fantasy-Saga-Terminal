@@ -1,4 +1,4 @@
-# Final-Fantasy BattleScript
+# Fantasy-Saga 
 
 ## A Python Role-Playing game using just the Terminal.
 <img src ="https://user-images.githubusercontent.com/54435702/80743495-ad4ba000-8b3a-11ea-94ed-254475618971.PNG" width ="360" height="300" />
